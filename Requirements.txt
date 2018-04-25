@@ -1,0 +1,10 @@
+tensorflow
+keras
+matplotlib
+numpy
+pandas
+speechpy
+scipy
+collections
+itertools
+flask
